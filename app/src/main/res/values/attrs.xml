@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Circle">
+        <attr name="showGuides" format="boolean" />
+        <!--Circle attributes-->
+        <attr name="circleStrokeWidth" format="float" />
+        <attr name="circleStrokeColor" format="color" />
+        <attr name="circleRadius" format="float" />
+        <!--Guides attributes-->
+        <attr name="guidesColor" format="color" />
+        <!--Pointer attributes-->
+        <attr name="pointerStrokeWidth" format="float" />
+        <attr name="pointerStrokeColor" format="color" />
+        <attr name="pointerLength" format="float" />
+        <!--Other-->
+    </declare-styleable>
+</resources>

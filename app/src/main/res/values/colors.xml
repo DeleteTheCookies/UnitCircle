@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="backgroundInputBox">#BEC5CD</color>
+    <color name="colorAccent">#8996A5</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextSecondary">#000000</color>
+    <color name="backgroundMainTheme">#123553</color>
+    <color name="backgroundResultBox">#0C3C65</color>
+    <color name="colorGuides">#455D75</color>
+    <color name="colorCircleStroke">#034791</color>
+    <color name="colorPointerStroke">#926641</color>
+</resources>

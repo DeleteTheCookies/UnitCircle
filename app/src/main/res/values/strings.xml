@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitCircle</string>
+    <string-array name="trigSpinner_array">
+        <item>Sine</item>
+        <item>Cosine</item>
+        <item>Tangent</item>
+        <item>Cosecant</item>
+        <item>Secant</item>
+        <item>Cotangent</item>
+    </string-array>
+    <string-array name="unitSpinner_array">
+        <item>Deg</item>
+        <item>Rad</item>
+    </string-array>
+</resources>
